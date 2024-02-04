@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="musicbox" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0a2fc9;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #323235;
+      }
+
+      .cls-3 {
+        fill: #070707;
+      }
+    </style>
+  </defs>
+  <g id="base">
+    <rect class="cls-2" x=".5" y="47.08" width="479" height="202.92" rx="77.31" ry="77.31"/>
+    <rect class="cls-3" x=".5" y="96.89" width="479" height="202.92" rx="63.16" ry="63.16"/>
+    <path class="cls-3" d="M245.84,16.86c93.89,0,173.37,28.84,200.16,68.6C436.12,37.77,350.17.5,245.6.5S53.83,38.32,45,86.5C71.09,46.2,151.13,16.86,245.84,16.86Z"/>
+  </g>
+  <g id="bluering1">
+    <ellipse class="cls-1" cx="129" cy="199" rx="81.43" ry="76"/>
+  </g>
+  <g id="bluering2">
+    <ellipse class="cls-1" cx="358.4" cy="198" rx="81.43" ry="76"/>
+  </g>
+  <g id="balckring1">
+    <ellipse class="cls-3" cx="358.42" cy="198" rx="29.08" ry="27.14"/>
+  </g>
+  <g id="blackring2">
+    <ellipse class="cls-3" cx="129.42" cy="199" rx="29.08" ry="27.14"/>
+  </g>
+</svg>

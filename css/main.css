@@ -1,0 +1,128 @@
+
+/*SVG 1*/
+
+#coffee:hover #circlecoffee{
+    fill:rgb(120, 165, 42);
+
+}
+
+#coffee:hover #rectanglecoffee{
+
+    fill: red;
+    transform: rotate(180deg);
+}
+
+#rectanglecoffee{
+    transition: all 0.5s ease;
+    transform-origin: center;
+}
+
+#coffeetext{
+
+    fill: rgb(215, 21, 21);
+}
+
+/*SVG 2*/
+
+#canadapost:hover #cprectangle{
+
+}
+
+#yellowhead{
+
+}
+
+#cptext{
+
+}
+
+#canadapost:hover #redhead{
+
+    transform: translateY(-40px);
+    transition: ease-out 2s;
+    transform-origin: center;
+
+}
+
+/*SVG 3*/
+
+#clock:hover #clockbase{
+
+
+}
+
+#lockring{
+
+    
+}
+
+#clock:hover #needle1{
+
+    transform: rotate(360deg);
+}
+
+#needle1{
+    transition: all 1s ease-in;
+     transform-origin: center;
+}
+
+#clock:hover #needle2{
+
+    transform: rotate(360deg);
+}
+
+#needle2{
+    transition: all 1s ease;
+     transform-origin: center;
+}
+
+/*SVG 4*/
+
+#canadatransport:hover #ctext{
+
+
+}
+
+#canadatransport:hover #car{
+
+    transform: translateX(-500px);
+    transition: ease-out 2s;
+    transform-origin: center;
+
+} 
+
+/*SVG 5*/
+
+#musicbox:hover #bluering1{
+    animation: blinker 0.2s step-start infinite;
+}
+
+@keyframes blinker {
+    35% {
+      opacity: 0;
+    }
+  }
+
+  #musicbox:hover #bluering2{
+    animation: blinker 0.2s step-start infinite;
+}
+
+@keyframes blinker {
+    35% {
+      opacity: 0;
+    }
+  }
+
+ /*SVG 6*/
+ 
+ #bulb:hover #base {
+   animation: ;
+ }
+
+ #bulb:hover #ring {
+  fill: yellow;
+  }
+
+  #bulb:hover #fillament {
+    fill: yellow;
+  }

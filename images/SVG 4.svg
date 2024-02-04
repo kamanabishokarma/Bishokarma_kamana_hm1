@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="canadatransport" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 634.38 108.38">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #29abe2;
+      }
+
+      .cls-3 {
+        letter-spacing: .02em;
+      }
+
+      .cls-4 {
+        font-family: CopperplateGothic-Bold, 'Copperplate Gothic Bold';
+        font-size: 60px;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="ctext">
+    <text class="cls-4" transform="translate(0 93.38)"><tspan x="0" y="0">canada t</tspan><tspan class="cls-3" x="302.67" y="0">r</tspan><tspan x="345.35" y="0">anspo</tspan><tspan class="cls-5" x="550.43" y="0">r</tspan><tspan x="591.94" y="0">t</tspan></text>
+  </g>
+  <g id="car">
+    <g>
+      <path class="cls-2" d="M616.91,17l-29.44-17h-46.75l-33.93,17h-14.4v21.21c0,4.86,4.95,8.79,11.05,8.79h4.97c.27-7.77,6.64-14,14.47-14s14.21,6.23,14.47,14h49.05c.27-7.77,6.64-14,14.47-14s14.21,6.23,14.47,14h7.97c6.1,0,11.05-3.94,11.05-8.79v-21.21h-17.47Z"/>
+      <circle class="cls-1" cx="523.38" cy="47" r="12"/>
+      <circle class="cls-1" cx="601.38" cy="47" r="12"/>
+    </g>
+  </g>
+</svg>
